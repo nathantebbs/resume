@@ -1,6 +1,6 @@
 title: Nathan Tebbs
-remote_theme: jekyll/minima
+remote_theme: jekyll/minimal
 plugins:
   - jekyll-remote-theme
-minima:
+minimal:
   skin: dark # or auto if you want it to switch with your system settings.
