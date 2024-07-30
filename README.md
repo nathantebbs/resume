@@ -1,3 +1,5 @@
+
+## Skills
 - HTML, CSS, Javascript
 - Next.js, React
 - C
