@@ -1,15 +1,14 @@
+<span style="float:right;padding:6px"> 
+  ntebbs@arizona.edu <br> mobile: +360 5228450 <br> 
+</span>
+
+# Nathan Tebbs
 
 ## Skills
 - HTML, CSS, Javascript
 - Next.js, React
 - C
 - Java
-
-## Personal Projects
-### DevLog
-- Code timer and session tracking app. Deployed with Vercel and build with Next.js, TypeScript, and React.
-- [Repository](https://github.com/nathantebbs/devlog)
-- [Website](https://devlog.work)
 
 ## Education
 I am currently a Computer Science student attending the University of Arizona. Before arriving in Tucson, I earned my Associate in Arts at South Puget Sound Community College during my last two years of high school. This allowed me to get ahead in my degree coursework, enabling me to graduate in the fall of 2025.
