@@ -1,5 +1,3 @@
-# Nathan Tebbs
-
 <span style="float:right;padding:6px"> 
   ntebbs@arizona.edu <br> mobile: +360 5228450 <br> 
 </span>
