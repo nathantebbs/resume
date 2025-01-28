@@ -1,5 +1,5 @@
 <span style="float:right;padding:6px"> 
-  ntebbs@arizona.edu <br> mobile: +360 5228450 <br> 
+  ntebbs@arizona.edu <br> mobile: <a href="tel:+3605228450">(360) 522-8450</a>
 </span>
 
 ## Skills
