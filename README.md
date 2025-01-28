@@ -1,6 +1,6 @@
 <span style="float:right;padding:6px"> 
   <a href="ntebbs@arizona.edu" target="_blank">ntebbs@arizona.edu</a> <br> 
-  mobile: <a href="tel:+3605228450" target="_blank">(360) 522-8450</a> <br>
+  <a href="tel:+3605228450" target="_blank">(360) 522-8450</a> <br>
   <a href="https://www.github.com/nathantebbs" target="_blank">GitHub</a> <br>
   <a href="https://www.linkedin.com/in/ntebbs" target="_blank">LinkedIn</a> <br>
 </span>
