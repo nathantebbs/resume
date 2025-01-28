@@ -1,3 +1,5 @@
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="headshot.jpeg" />
+
 <span style="float:right;padding:6px"> 
   <a href="ntebbs@arizona.edu" target="_blank">ntebbs@arizona.edu</a> <br> 
   <a href="tel:+3605228450" target="_blank">(360) 522-8450</a> <br>
