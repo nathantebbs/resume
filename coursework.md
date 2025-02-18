@@ -1,4 +1,4 @@
-[Home](./README.md)
+[Home](./README.md) [Coursework](./coursework.md)
 
 ## Fall 2023
 
