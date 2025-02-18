@@ -8,6 +8,7 @@
 </span>
 
 ## Languages
+- Python
 - HTML, CSS, Javascript
 - C
 - Java
