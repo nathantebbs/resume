@@ -10,7 +10,7 @@
 - CSC 244 - Discrete Mathematics II
 - CSC 346 - Cloud Computing
 
-### Summer 2024
+## Summer 2024
 
 - CSC 252 - Computer Organization
 
@@ -19,3 +19,9 @@
 - CSC 337 - Software Engineering and Development
 - CSC 352 - Systems Programming & UNIX
 - CSC 345 - Analysis of Discrete Structures
+
+
+## Spring 2025
+
+- CSC 380 - Principles of Data Science
+- CSC 391 - Preceptorship
