@@ -20,9 +20,3 @@ As of spring semester 2025 I am officially one of the UGTAs for [CSc 346](https:
 
 
 [Coursework](./coursework.md)
-
-#### Spring 2025
-
-- CSC 380 - Principles of Data Science
-- CSC 391 - Preceptorship
-
