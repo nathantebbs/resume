@@ -1,3 +1,5 @@
+# Coursework
+
 ## Fall 2023
 
 - CSC 144 - Discrete Mathematics I
