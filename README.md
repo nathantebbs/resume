@@ -1,5 +1,3 @@
-[Home](./README.md) [Coursework](./coursework.md)
-
 <img style="float:right;border-radius:50%;width:70px;padding:6px" src="headshot.jpeg" />
 
 <span style="float:right;padding:6px"> 
@@ -19,3 +17,6 @@
 I am currently a Computer Science student attending the University of Arizona. Before arriving in Tucson, I earned my Associate in Arts at South Puget Sound Community College during my last two years of high school. This allowed me to get ahead in my degree coursework, enabling me to graduate in the spring of 2026.
 
 As of spring semester 2025 I am officially one of the UGTAs for [CSc 346](https://dev.ericnewberry.com/csc346/) at the University of Arizona!
+
+## More About Me
+[Coursework](./coursework.md)
