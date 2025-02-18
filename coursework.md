@@ -1,5 +1,3 @@
-[Home](./README.md) [Coursework](./coursework.md)
-
 ## Fall 2023
 
 - CSC 144 - Discrete Mathematics I
@@ -25,3 +23,12 @@
 
 - CSC 380 - Principles of Data Science
 - CSC 391 - Preceptorship
+
+---
+
+## Pages
+
+[Home](./README.md)
+
+- Education
+  - [Coursework](./coursework.md)
