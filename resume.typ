@@ -21,35 +21,34 @@
 
 == Technical Skills
 
-*Programming/Scripting Languages:* C/C++, Rust, Java, Python, Bash, Powershell (basic)
+*Languages:* Go, Rust, C, Java, Python, Bash
 
-*Networking:* TCP/IP, DNS, DHCP, firewall fundamentals, basic Active Directory concepts
+*Systems:* Linux (Ubuntu, Debian, Arch, Void), Windows 10/11, Windows Server
 
-*Operating Systems:* Windows 10/11, Windows Server, Linux (Ubuntu, Debian, Arch, Void)
+*Operations:* User/group management, patching, logging, backups, basic virtualization, storage, and RAID concepts
 
-*Tools & Technologies:* Git/Github, Docker, VMware, GDB, Valgrind, SSH, Vim/Neovim, Emacs, Nano
+*Tools:* Git/Github, Docker, VMWare, GDB, Valgrind, SSH
 
-*System Administration:* Linux system administration, user/group management, permissions, patching, logging, backups, basic virtualization, storage, and RAID concepts
-
-== Relevant Technical Experience
-
-#project(
-    name: "Command & Control Simulator",
-    dates: dates-helper(start-date: "2025", end-date: "Present"),
-    url: "github.com/nathantebbs/TODO",
-)
-- Designed a small-scale command-and-control simulator to model secure client/server communications in a controlled Linux lab environment.
-- Implemented authenticated command handling, structured message formats, and centralized logging to simulate secure operational workflows. Configured and tested services in a virtualized Linux lab environment.
-- Used the project to practice system hardening concepts, input validation, and fault handling relevant to secure and mission-critical systems.
+== Relevant Projects
 
 #project(
     name: "GateRelay",
     dates: dates-helper(start-date: "2025", end-date: "Present"),
     url: "github.com/nathantebbs/gaterelay"
 )
-- Designed a Linux-based TCP relay service to explore network traffic flow, connection handling, and service reliability fundamentals.
-- Implemented socket-based communication with emphasis on connection management, timeout handling, and graceful shutdown behavior.
-- Added connection logging and error reporting to support observability and troubleshooting of networked services.
+- Built and operated a Linux-based TCP relay as a hardened, non-root systemd-managed service in a virtualized lab environment.
+- Implemented connection limits, timeouts, and graceful shutdown to support 24x7-style service operation and predictable failure behavior.
+- Configured structured logging and restart policies to support troubleshooting, recovery, and operational documentation in a production-like setting.
+
+#project(
+    name: "Command & Control Simulator",
+    dates: dates-helper(start-date: "2025", end-date: "Present"),
+    url: "github.com/nathantebbs/c2",
+)
+- Developed a secure client/server simulator to exercise authenticated request/response workflows between distributed Linux services in a controlled lab environment.
+- Designed structured message handling, session state, and command validation to ensure predictable, auditable service behavior under normal and fault conditions.
+- Evaluated authentication failures, malformed inputs, and service interruptions to validate resilience and correctness in security-sensitive, mission-focused systems.
+
 
 == Academic Experience
 
