@@ -17,6 +17,7 @@
   phone: phone,
   accent-color: "#26428b",
   font: "New Computer Modern",
+    font-size: 9.25pt,
 )
 
 == Technical Skills
@@ -27,7 +28,7 @@
 
 *Operations:* User/group management, patching, logging, backups, basic virtualization, storage, and RAID concepts
 
-*Tools:* Git/Github, Docker, VMWare, GDB, Valgrind, SSH
+*Tools:* Git/GitHub, Docker, VMware/KVM, GDB, Valgrind, SSH
 
 == Relevant Projects
 
@@ -67,10 +68,23 @@
     title: "Website Developer",
     location: "Olympia, Washington",
     company: "Sound Psychiatric Services",
-    dates: dates-helper(start-date: "May 2021", end-date: "Present"),
+    dates: dates-helper(start-date: "2021", end-date: "Present"),
 )
 - Deployed and maintained production websites, handling hosting, updates, backups, and long-term maintenance.
 - Migrated legacy systems to modern stacks with improved reliability and security posture.
+
+
+== Technical Leadership
+
+#work(
+    title: "Safety Captain",
+    location: "Olympia, Washington",
+    company: "FIRST Robotics Competition team 4450",
+    dates: dates-helper(start-date: "2021", end-date: "2023"),
+)
+- Led safety operations for a competitive engineering team, enforcing shop, electrical, and tooling safety standards across mechanical, electrical, and software work under strict build and competition deadlines. 
+
+- Served as Safety Captain for an international outreach program, coordinating safety planning and risk mitigation for a \$60,000 fundraising effort supporting travel of 17 students and delivery of metal-based FTC robotics kits to Cairo, Egypt, enabling hands-on robotics education in a resource-constrained environment.
 
 
 == Education
@@ -87,14 +101,7 @@
     institution: "South Puget Sound Community College",
     location: "Olympia, Washington",
     dates: dates-helper(start-date: "Sep 2021", end-date: "May 2023"),
-    degree: "Associates of Arts",
-)
-
-== Certifications
-
-#certificates(
-    name: "CompTIA Security+",
-    date: "(planned 2026)"
+    degree: "Associate of Arts",
 )
 
 == Additional Information

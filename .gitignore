@@ -1,6 +1,3 @@
-# Typst build artifacts
-*.pdf
-
 # OS files
 .DS_Store
 Thumbs.db
